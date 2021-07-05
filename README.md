@@ -1,6 +1,7 @@
-# Cheat website
+# Cheat website / crack website
 * https://gamesense.pub
 * https://skeet.cc
+* https://gamesense.is
 
 # Usage
 * Honestly, it's really simple. Have some basic C++ knowledge.
